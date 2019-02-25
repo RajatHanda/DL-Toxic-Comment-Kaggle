@@ -1,3 +1,5 @@
+## App Link:
+Heroku App: https://kosherortoxic.herokuapp.com
 # Toxic Comment Classification
 
 ## Introduction:
@@ -10,6 +12,5 @@ As a team of two, we implemented GRU and LSTM with different type of embeddings 
 We found out that GRU is 30% faster and is performing well w.r.t. LSTM.
 
 
-## App Link:
-Heroku App: https://kosherortoxic.herokuapp.com
+
 ![Screenshot](Screenshot.png)
